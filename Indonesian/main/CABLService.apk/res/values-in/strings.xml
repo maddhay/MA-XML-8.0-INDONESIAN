@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Pengaturan cahaya latar konten adaptif</string>
+  <string name="cabl_enable_summary_off">Cahaya latar akan tidak menyesuaikan berdasarkan konten layar</string>
+  <string name="cabl_enable_summary_on">Cahaya latar akan kembali menyesuaikan berdasarkan konten layar</string>
+  <string name="cabl_enable_title">Aktifkan cahaya latar konten adaptif tingkat kualitas</string>
+  <string name="cabl_info_default">Tidak diketahui</string>
+  <string name="cabl_level_default">Auto</string>
+  <string name="cabl_levels_summary">Kualitas rendah menunjukkan CABL akan mencoba untuk menyimpan daya sebanyak mungkin tanpa secara signifikan mempengaruhi konten yang ditampilkan. Auto tingkat kualitas visual berarti CABL akan mencoba untuk memaksimalkan penghematan daya berdasarkan auto Jenis mendeteksi konten yang ditampilkan.</string>
+  <string name="cabl_levels_title">Visual Tingkat Kualitas</string>
+  <string name="cabl_settings_title">Konten Adaptive cahaya latar Pengaturan</string>
+  <string name="cabl_version_title">Versi CABL</string>
+</resources>

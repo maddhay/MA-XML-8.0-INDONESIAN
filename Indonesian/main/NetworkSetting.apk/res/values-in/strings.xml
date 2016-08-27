@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="China_Mobile">China Mobile</string>
+	<string name="China_Telecom">China Telecom</string>
+	<string name="China_Unicom">China Unicom</string>
+	<string name="available_networks">Jaringan yang tersedia</string>
+	<string name="connect_later">Tidak dapat terhubung ke jaringan ini sekarang. Coba lagi nanti.</string>
+	<string name="dialog_message">Keluar akan berhenti mencari, pastikan untuk berhenti?</string>
+	<string name="disconnect_data_confirm">Layanan data sementara akan terputus. Apakah Anda yakin?</string>
+	<string name="network_forbidden">(Terlarang)</string>
+	<string name="network_query_error">Kesalahan saat mencari jaringan.</string>
+	<string name="no_network">Tidak ada jaringan yang ditemukan.</string>
+	<string name="not_allowed">Kartu SIM Anda tidak memungkinkan koneksi ke jaringan ini.</string>
+	<string name="progress_scanning">Mencari…</string>
+	<string name="quit_mention">Peringatan!</string>
+	<string name="register_automatically">Otomatis pendaftaran…</string>
+	<string name="register_on_network">Mendaftar di %1$s…</string>
+	<string name="registration_done">Terdaftar pada jaringan.</string>
+	<string name="roamingTextSearching">Mencari Layanan</string>
+	<string name="search_networks">Jaringan pencarian</string>
+	<string name="select_automatically">Pilih otomatis</string>
+	<string name="sum_select_automatically">Memilih secara otomatis jaringan pilihan</string>
+	<string name="timeout_message">Tidak menemukan jaringan yang tersedia.</string>
+</resources>
