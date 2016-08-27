@@ -3,7 +3,6 @@
   <string name="about_app_name">Pemutar Video</string>
   <string name="about_title">Tentang</string>
   <string name="about_version">1.0.1</string>
-  <string name="about_version_label">"Versi "</string>
   <string name="account_auth_fail">Verifikasi akun gagal</string>
   <string name="actor">Aktor</string>
   <string name="actor_intro">Tentang</string>
@@ -347,7 +346,6 @@
   <string name="vp_player_plugin_dlg_neg_btn">Tutup</string>
   <string name="vp_player_plugin_dlg_title">Plugin Pemutar Video</string>
   <string name="vp_player_plugin_dlg_no_content">Tak ada plugin Pemutar Video yang terdeteksi</string>
-  <string name="waiting_to_download">Menunggu</string>
   <string name="waiting_to_download">Menunggu</string>
   <string name="xiaomi_account_type_unsupported">Akun Mi tidak didukung</string>
   <string name="wasu">Wasu</string>
